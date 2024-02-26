@@ -101,12 +101,14 @@ experience:
       role: Senior Consultant and Managing Director
       location: Oslo
       description: |
-        Established the company in 2020 initially as a Lærebedrift in Data Electronics to serve as a platform/flexibility register for IoT devices, but extended to further energy services when joining fulltime myself.
+        Establishing the company in 2020 initially as a Lærebedrift in Data Electronics to provide a platform/flexibility register for IoT devices/assets. Focus expanded to general energy services when starting to work fulltime myself for the company.
         
         + Consulting and research services for participants in energy related markets
         + Providing platforms for managing contracts and risk management in energy and flexibility markets
 
+        The company is now owned 50% by Hafslund Eco Vannkraft AS.  
         More details found under Projects
+        
 
     - company: NODES Markets AS
       link:
@@ -127,9 +129,9 @@ experience:
       role: Enterprise Architect
       location: Skøyen, Oslo
       description: |
-        Initially Product Owner of the NODES market platform, and subsequently heading the project team conducting pilots.
-        + First
-        + Second
+        Working for Hafslund Hedging and IT group during the first 4 years, before becoming Enterprise Architect in Hafslund Marked
+        + Architect for one of the first ETRM projects using cloud architecture
+        + Assisting Hafslund Nett in the smart meter rollout project 2014-2015, with responsibility for the integration platform.
 
     - company: Viz Risk Management Services
       link:
