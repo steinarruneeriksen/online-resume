@@ -115,9 +115,10 @@ experience:
       role: Head of Project Management
       location: Lysaker, Oslo
       description: |
-        Initially Product Owner of the NODES market platform, and subsequently heading the project team conducting pilots.
-        + First
-        + Second
+        Product Owner of the NODES market platform, and subsequently heading the project team
+        + Participating in the market design group for NODES Market
+        + Holding the role as Product Owner for the rist 2 years establishing a market platform for flexibility trading
+        + Overseeing pilot projects and actively managing NODES participation in key projects in Scandinavie (Norflex, sthlmflex and Smart Senja)
 
     - company: Hafslund Hedging AS and Hafslund Marked
       link:
@@ -129,6 +130,42 @@ experience:
         Initially Product Owner of the NODES market platform, and subsequently heading the project team conducting pilots.
         + First
         + Second
+
+    - company: Viz Risk Management Services
+      link:
+      tags: Full-time
+      date: 2010.01 - 2011.01
+      role: Senior Consultant
+      location: Skøyen, Oslo
+      description: |
+        Consultant in integration projects for the Elviz platform at Norsk Hydro.
+
+    - company: Orkla Finans Commmodity Trading
+      link:
+      tags: Full-time
+      date: 2008.01 - 2010.01
+      role: Risk Manager and Compliance Officer
+      location: Smestad, Oslo
+      description: |
+        Managing Risk in a Hedge Fund trading Power, Gas, Oil and Emissions.
+
+    - company: Viz Consulting AS
+      link:
+      tags: Full-time
+      date: 2005.10 - 2008.01
+      role: Senior Consultant and Architect
+      location: Skøyen, Oslo
+      description: |
+        Providing consulting services and customers of Viz Risk Management AS and ther Elviz platform.
+
+    - company: Biz Partner AS
+      link:
+      tags: Full-time
+      date: 2001.07 - 2005.10
+      role: Senior Consultant and Managing Director
+      location: Sandvika, Norway
+      description: |
+        Providing consulting services and customers of Viz Risk Management AS and ther Elviz platform.
 
 project:
   show: true
