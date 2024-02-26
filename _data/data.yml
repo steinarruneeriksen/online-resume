@@ -1,5 +1,5 @@
 basic:
-  name: Foo Bar                      # name
+  name: Steinar Rune Eriksen                      # name
   title: Backend Developer           # job title
   avatar:
     show: true                       # show or hide avatar
@@ -7,13 +7,13 @@ basic:
 
 contact:
   # meta
-  location: Beijing, China # location
-  email: me@example.com    # email address
-  phone: +86-111-2222-3333 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  website: example.com     # site URL without schema, like example.com, will automatically prepand "https://"
+  location: Oslo, Norway # location
+  email: steinar@springboard.energy    # email address
+  phone: +47-90 528 148 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  website: springboard.energy     # site URL without schema, like example.com, will automatically prepand "https://"
 
-  gender:                  # gender or pronoun
-  birthday:                # birthday
+  gender:   Male               # gender or pronoun
+  birthday: 20th November 29167               # birthday
   nationality:             # nationality
   visa:                    # passport visa
   drivinglicense:          # driving licence
