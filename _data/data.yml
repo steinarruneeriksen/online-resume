@@ -167,6 +167,25 @@ experience:
       description: |
         Providing consulting services and customers of Viz Risk Management AS and ther Elviz platform.
 
+    - company: Orion Systems AS
+      link:
+      tags: Full-time
+      date: 1996.01 - 2001.05
+      role: Development Manager and System Architect
+      location: Oslo, Norway
+      description: |
+        Providing consulting services and customers of Viz Risk Management AS and ther Elviz platform.
+
+    - company: Institutt for Rettsiformatikk, University of Oslo
+      link:
+      tags: Full-time
+      date: 1994.04 - 1996.01
+      role: IT manager
+      location: Oslo, Norway
+      description: |
+        Providing consulting services and customers of Viz Risk Management AS and ther Elviz platform.
+
+
 project:
   show: true
   order: 3
@@ -261,15 +280,15 @@ education:
     In addition to basic information about your education, you may also want to include any academic honors or awards you received, relevant coursework or projects, and your GPA if it is 3.0 or above. If you have recently graduated and do not have much work experience yet, highlighting your education and academic achievements can help demonstrate your potential to succeed in the workplace.
 
   items:
-    - institution: NHHK
+    - institution: NHHK, Oslo
       link: '#'
       date: 1994 - 1995
       major: Bedriftsøkonomi (deltid)
       degree: Bedriftsøkonomi
       description: |
-        Additional information for this institution.
-        + First
-        + Second
+        Evening course in economics
+        + Economics and accounting
+        + Marketing
 
     - institution: University of Manchester
       link: '#'
@@ -277,19 +296,19 @@ education:
       major: Machine Learning
       degree: Master
       description: |
-        Additional information for this institution.
-        + First
-        + Second
+        MSc degree in Information Systems Engineering
+        + Thesis on advanced machine learning algorithms
+        + Database management systems
 
-    - institution: Example University
+    - institution: University of Oslo
       link:
       date: 1986 - 1990
       major: Computer Science
-      degree: Bachelor
+      degree: Bachelor (Cand Mag)
       description: |
-        Additional information for this institution.
-        + First
-        + Second
+        Cand Mag degree in informatics
+        + Programming and informatics
+        + Mathematics and statistics
 
 certificate:
   show: false
