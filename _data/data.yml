@@ -83,8 +83,7 @@ profile:
   order: 1
   title: Profile
   description: |
-    The profile section in a resume is a brief summary of the applicant's skills, qualifications, and experience. The purpose of this section is to provide a snapshot of the applicant's professional background and highlight their most relevant accomplishments and strengths. It may include information such as the applicant's career objectives, years of experience, areas of expertise, and key achievements.
-
+    Senior Consultant with experience from the power markets since 1996, 
     A well-crafted profile section can help to grab the attention of potential employers and encourage them to read on and learn more about the applicant's qualifications and experience.
 
 experience:
@@ -92,26 +91,29 @@ experience:
   order: 2
   title: Experiences
   description: |
-    The experiences section in a resume is a section where you list your previous work experiences and accomplishments. It typically includes information about your previous job titles, companies you worked for, the dates of your employment, and your key responsibilities and achievements in each role. This section is important because it gives potential employers a sense of your work history and the skills and expertise you have developed over time. It can also help demonstrate your ability to contribute value to a new organization based on your past achievements.
+    Work experiences
 
   items:
-    - company: Second Company
+    - company: Springboard Energy Systems AS
       link: '#'
       tags: Full-time
-      date: 2018.03 - 2019.03
-      role: Backend Developer
-      location: Beijing
+      date: 2021.08 - present
+      role: Senior Consultant and Managing Director
+      location: Oslo
       description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
+        Established the company in 2020 initially as a Lærebedrift in Data Electronics to serve as as a hub for flexibility markets with IoT devices.  
+        
+        Then extending the services to bridge into the energy management sphere, with focus also on modelling risk
+        
+        + Consulting and research services for participants in energy related markets
+        + Providing platforms for managing contracts and risk management in energy and flexibility markets
 
-    - company: First Company
+    - company: NODES Markets
       link:
-      tags: Part-time, remote
-      date: 2017.03 - 2018.03
-      role: Backend Developer
-      location: Beijing
+      tags: Full-time, remote
+      date: 2017.03 - 2021.08
+      role: Head of Project Management
+      location: Lysaker, Oslo
       description: |
         Your key responsibilities and achievements in the company.
         + First
