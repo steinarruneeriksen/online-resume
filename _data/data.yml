@@ -186,7 +186,7 @@ experience:
       role: IT manager
       location: Oslo, Norway
       description: |
-        As part of my compulsory services (siviltjeneste), working for Jon Bings institute as IT manager.
+        As part of the compulsory national service (siviltjeneste), I was working for Jon Bings institute as IT manager.
 
     - company: Microsoft WPGI, Ireland
       link:
@@ -195,7 +195,7 @@ experience:
       role: Localizer
       location: Dublin, Ireland
       description: |
-        Localizer for the Norwegian version of Windows NT 3.1; and subsequently working on telephone support for Windows OS.
+        Localizer for the Norwegian version of Windows NT 3.1; and subsequently working on telephone support for Windows.
 
 
 project:
@@ -287,10 +287,7 @@ education:
   order: 5
   title: Education
   description: |
-    The education section in a resume is where you provide information about your academic background, including any degrees. In this section, you should include the name and location of the institution where you received your degree, the name of the degree or program you completed, and the date of graduation. If you have earned multiple degrees, list them in reverse chronological order, with the most recent degree first.
-
-    In addition to basic information about your education, you may also want to include any academic honors or awards you received, relevant coursework or projects, and your GPA if it is 3.0 or above. If you have recently graduated and do not have much work experience yet, highlighting your education and academic achievements can help demonstrate your potential to succeed in the workplace.
-
+    My main degree is Master of Science in Information Systems Engineering, but I have always had an interest in finance and economics and took classes in economics besides my work in later years.
   items:
     - institution: NHHK, Oslo
       link: '#'
