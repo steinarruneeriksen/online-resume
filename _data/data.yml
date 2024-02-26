@@ -156,7 +156,7 @@ experience:
       role: Senior Consultant and Architect
       location: Skøyen, Oslo
       description: |
-        Providing consulting services and customers of Viz Risk Management AS and ther Elviz platform.
+        Providing consulting services for customers of Viz Risk Management AS and the Elviz platform.
 
     - company: Biz Partner AS
       link:
@@ -165,7 +165,7 @@ experience:
       role: Senior Consultant and Managing Director
       location: Sandvika, Norway
       description: |
-        Providing consulting services and customers of Viz Risk Management AS and ther Elviz platform.
+        Consulting services for companies like Nord Pool and Elkem Energi Handel.
 
     - company: Orion Systems AS
       link:
@@ -174,7 +174,7 @@ experience:
       role: Development Manager and System Architect
       location: Oslo, Norway
       description: |
-        Providing consulting services and customers of Viz Risk Management AS and ther Elviz platform.
+        Developing one of the leading ETRM platforms in the 90s and helping Nord Pool Spot establishing the first Internet based Spot Bidding application.
 
     - company: Institutt for Rettsiformatikk, University of Oslo
       link:
@@ -183,7 +183,16 @@ experience:
       role: IT manager
       location: Oslo, Norway
       description: |
-        Providing consulting services and customers of Viz Risk Management AS and ther Elviz platform.
+        As part of my compulsory services (siviltjeneste), working for Jon Bings institute as IT manager.
+
+    - company: Microsoft WPGI, Ireland
+      link:
+      tags: Full-time
+      date: 1993.02 - 1994.04
+      role: Localizer
+      location: Dublin, Ireland
+      description: |
+        Localizer for the Norwegian version of Windows NT 3.1; and subsequently working on telephone support for Windows OS.
 
 
 project:
@@ -217,8 +226,8 @@ project:
       date:
       description: |
         Project Manager for NODES Market in ENOVA funded projects piloting flexibility markets
-        + First
-        + Second
+        + Norflex - flexibility pilot bridging local DSO and Statnett's markets
+        + Smart Senja - flexibility as means to assist shift to electricity 
 
 skill:
   show: false
@@ -442,9 +451,9 @@ interest:
   description: |
     Interest outside work
   items:
-    - item: Shotokan
-      link: '#'
-    - item: Cooking
+    - item: Shotokan Karate - I hold a 2. dan JKA grade in karate
+      link:
+    - item: Finance - Investment and algorithmic trading of Forex and Futures.
       link:
 
 evaluation:
