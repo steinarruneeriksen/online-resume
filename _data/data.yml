@@ -9,11 +9,11 @@ contact:
   # meta
   location: Oslo, Norway # location
   email: steinar@springboard.energy    # email address
-  phone: +47-90 528 148 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  website: springboard.energy     # site URL without schema, like example.com, will automatically prepand "https://"
+  phone: +47 90528148 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  #website: springboard.energy     # site URL without schema, like example.com, will automatically prepand "https://"
 
   gender:   Male               # gender or pronoun
-  birthday: 20th November 29167               # birthday
+  birthday: 20th November 1967               # birthday
   nationality:             # nationality
   visa:                    # passport visa
   drivinglicense:          # driving licence
