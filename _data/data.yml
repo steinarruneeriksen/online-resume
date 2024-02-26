@@ -1,6 +1,6 @@
 basic:
   name: Steinar Rune Eriksen                      # name
-  title: Backend Developer           # job title
+  title: Senior Energy Business & Technology Consultant           # job title
   avatar:
     show: true                       # show or hide avatar
     path: https://media.licdn.com/dms/image/C4D03AQHvFyybNUS5qw/profile-displayphoto-shrink_100_100/0/1629900625455?e=1714608000&v=beta&t=6JXnNb1t5i3NRmNcUKuo9cENrWlY2RC5hX8U6buc3g4 # avatar file path
@@ -101,21 +101,32 @@ experience:
       role: Senior Consultant and Managing Director
       location: Oslo
       description: |
-        Established the company in 2020 initially as a Lærebedrift in Data Electronics to serve as as a hub for flexibility markets with IoT devices.  
-        
-        Then extending the services to bridge into the energy management sphere, with focus also on modelling risk
+        Established the company in 2020 initially as a Lærebedrift in Data Electronics to serve as a platform/flexibility register for IoT devices, but extended to further energy services when joining fulltime myself.
         
         + Consulting and research services for participants in energy related markets
         + Providing platforms for managing contracts and risk management in energy and flexibility markets
 
-    - company: NODES Markets
+        More details found under Projects
+
+    - company: NODES Markets AS
       link:
-      tags: Full-time, remote
-      date: 2017.03 - 2021.08
+      tags: Full-time
+      date: 2017.10 - 2021.08
       role: Head of Project Management
       location: Lysaker, Oslo
       description: |
-        Your key responsibilities and achievements in the company.
+        Initially Product Owner of the NODES market platform, and subsequently heading the project team conducting pilots.
+        + First
+        + Second
+
+    - company: Hafslund Hedging AS and Hafslund Marked
+      link:
+      tags: Full-time
+      date: 2011.01 - 2017.10
+      role: Enterprise Architect
+      location: Skøyen, Oslo
+      description: |
+        Initially Product Owner of the NODES market platform, and subsequently heading the project team conducting pilots.
         + First
         + Second
 
@@ -209,9 +220,19 @@ education:
     In addition to basic information about your education, you may also want to include any academic honors or awards you received, relevant coursework or projects, and your GPA if it is 3.0 or above. If you have recently graduated and do not have much work experience yet, highlighting your education and academic achievements can help demonstrate your potential to succeed in the workplace.
 
   items:
-    - institution: Example University
+    - institution: NHHK
       link: '#'
-      date: 2015 - 2018
+      date: 1994 - 1995
+      major: Bedriftsøkonomi (deltid)
+      degree: Bedriftsøkonomi
+      description: |
+        Additional information for this institution.
+        + First
+        + Second
+
+    - institution: University of Manchester
+      link: '#'
+      date: 1990 - 1992
       major: Machine Learning
       degree: Master
       description: |
@@ -221,7 +242,7 @@ education:
 
     - institution: Example University
       link:
-      date: 2011 - 2015
+      date: 1986 - 1990
       major: Computer Science
       degree: Bachelor
       description: |
@@ -230,7 +251,7 @@ education:
         + Second
 
 certificate:
-  show: true
+  show: false
   order: 6
   title: Certificates
   description: |
@@ -280,7 +301,7 @@ publication:
       link:
 
 award:
-  show: true
+  show: false
   order: 8
   title: Awards
   description: |
@@ -305,7 +326,7 @@ award:
         It's my Example Awared Two by Example.
 
 patent:
-  show: true
+  show: false
   order: 9
   title: Patents
   description: |
@@ -329,7 +350,7 @@ patent:
     + Foo Bar. 2022. Example patent name two. US 654321, filed Oct 3, 2022, and issued Nov 15, 2022.
 
 organization:
-  show: true
+  show: false
   order: 10
   title: Organizations
   description: |
