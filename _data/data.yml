@@ -172,33 +172,37 @@ project:
   order: 3
   title: Projects
   description: |
-    The project section in a resume is a section where you can highlight any significant projects that you have completed during your education, work experience, or personal endeavors. This section provides a detailed description of your projects that can showcase your skills, abilities, and achievements.
-
-    In this section, you should include the name of the project, the role you played in the project, the duration, the tools and technologies you used, the objective of the project, and the outcome or result achieved. You can also include any relevant metrics or data that demonstrate the impact of the project.
-
-    The project section is especially useful for candidates with limited work experience or those looking to highlight specific skills or accomplishments that may not be apparent in other parts of their resume. It can also be beneficial for candidates in technical or creative fields, where projects play a significant role in showcasing their capabilities.
-
+  The following are recent projects I have been managing and/or participating in.
   items:
-    - name: Personal project
+    - name: Euroflex
       link: '#'
       tags:
-      date: 2015 - 2017
+      date: 2023 - 2024
       description: |
-        Personal project description...
-        + First
-        + Second
+        I have been hired by the grid company Elvia as advisor in Euroflex.
+        + Find models and ways to price availability contracts
+        + Hereunder identifying risk premium for future imbalance price
+        + and valuation of real options for grid company to postpone investments
 
-    - name: OSS project
+    - name: Småflex
       link:
-      tags: committer
+      tags: 2023
       date:
       description: |
-        OSS project description...
+        Assisting Volte and Hafslund Flex in research phase for aggregation of small flexibility 
+
+
+    - name: Norflex and Smart Senja
+      link:
+      tags: 2019-2020
+      date:
+      description: |
+        Project Manager for NODES Market in ENOVA funded projects piloting flexibility markets
         + First
         + Second
 
 skill:
-  show: true
+  show: false
   order: 4
   title: Skills
   description: |
@@ -315,7 +319,7 @@ certificate:
         It's my Example Certificate Two by Example.
 
 publication:
-  show: true
+  show: false
   order: 7
   title: Publications
   description: |
@@ -398,7 +402,7 @@ organization:
     This section can be especially valuable for candidates seeking positions in the non-profit sector, social work, or community engagement roles, where experience in social or cultural organizations can demonstrate a genuine passion for social causes and a willingness to work collaboratively towards social change. However, it is important to only include organizations that are relevant to the job you are applying for, and avoid listing organizations that may be controversial or potentially offensive.
 
 language:
-  show: true
+  show: false
   order: 11
   title: Languages
   description: |
@@ -417,20 +421,15 @@ interest:
   order: 12
   title: Interests
   description: |
-    The interests section in a resume typically refers to a section where you can mention your hobbies, interests, and activities outside of work or school. This section can give potential employers a better idea of your personality, your values, and your interests beyond your professional experience.
-
-    Including an interest section in your resume can be helpful if your interests are relevant to the job you are applying for, such as if you are applying for a job in a creative field and your hobbies include painting or writing. It can also be useful if you are applying for a job where teamwork or social skills are important, and you can mention interests that demonstrate those qualities.
-
-    However, it is important to be selective when including an interest section in your resume, and to choose interests that are appropriate and professional. Avoid including controversial or potentially offensive interests, and focus on interests that showcase your positive qualities and strengths.
-
+    Interest outside work
   items:
-    - item: Reading
+    - item: Shotokan Karate.  I am holding a 2 dan JKA grade in karate.
       link: '#'
     - item: Cooking
       link:
 
 evaluation:
-  show: true
+  show: false
   order: 13
   title: Self-evaluation
   description: |
@@ -441,7 +440,7 @@ evaluation:
     A well-crafted self-evaluation section can demonstrate your self-awareness and confidence in your abilities, as well as your willingness to continuously learn and grow. However, it is important to be honest and avoid over-inflating your skills or qualifications, as this can negatively impact your credibility and the hiring manager's impression of you.
 
 reference:
-  show: true
+  show: false
   order: 14
   title: References
   description: |
