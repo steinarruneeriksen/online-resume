@@ -191,7 +191,7 @@ project:
   order: 3
   title: Projects
   description: |
-  The following are recent projects I have been managing and/or participating in.
+    The following are recent projects I have been managing and/or participating in.
   items:
     - name: Euroflex
       link: '#'
