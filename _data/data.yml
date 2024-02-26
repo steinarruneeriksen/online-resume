@@ -210,24 +210,24 @@ project:
         I have been hired by the grid company Elvia as advisor in Euroflex.
         + Find models and ways to price availability contracts
         + Hereunder identifying risk premium for future imbalance price
-        + and valuation of real options for grid company to postpone investments
+        + Valuation of real options for grid companies in postponing investments by using flexibility
 
     - name: Småflex
       link:
-      tags: 2023
-      date:
+      tags:
+      date: 2023
       description: |
-        Assisting Volte and Hafslund Flex in research phase for aggregation of small flexibility 
+        Assisting Volte and Hafslund Flex in research phase of projects aggregating small size flexibility 
 
 
     - name: Norflex and Smart Senja
       link:
-      tags: 2019 - 2020
-      date:
+      tags:
+      date: 2019 - 2020
       description: |
         Project Manager for NODES Market in ENOVA funded projects piloting flexibility markets
-        + Norflex - flexibility pilot bridging local DSO and Statnett's markets
-        + Smart Senja - flexibility as means to assist shift to electricity 
+        + Norflex - flexibility pilot with a focus to link DSO and Statnett's markets
+        + Smart Senja - flexibility as means to assist the electrification of fishing industry 
 
 skill:
   show: false
@@ -449,7 +449,7 @@ interest:
   order: 12
   title: Interests
   description: |
-    Interest outside work
+    Interests outside work
   items:
     - item: Shotokan Karate - I hold a 2. dan JKA grade in karate
       link:
