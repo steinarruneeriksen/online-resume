@@ -228,8 +228,8 @@ project:
       date: 2019 - 2020
       description: |
         Project Manager for NODES Market in ENOVA funded projects piloting flexibility markets
-        + Norflex - flexibility pilot with a focus to link DSO and Statnett's markets
-        + Smart Senja - flexibility as means to assist the electrification of fishing industry 
+        + Norflex - flexibility pilot with a focus on the link between DSO and Statnett's markets
+        + Smart Senja - flexibility as a mean to assist the electrification of fishing industry 
 
 skill:
   show: false
@@ -286,7 +286,7 @@ education:
   order: 5
   title: Education
   description: |
-    My main degree is Master of Science in Information Systems Engineering, but I have always had an interest in finance and economics and took classes in economics besides my work in later years.
+    My main degree is Master of Science in Information Systems Engineering, but I have always had an interest in finance and economics and took classes in economics part time in later years.
   items:
     - institution: NHHK, Oslo
       link: '#'
