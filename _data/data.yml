@@ -83,8 +83,7 @@ profile:
   order: 1
   title: Profile
   description: |
-    Senior Consultant with experience from the power markets since 1996, 
-    A well-crafted profile section can help to grab the attention of potential employers and encourage them to read on and learn more about the applicant's qualifications and experience.
+    Senior Consultant with experience from the power markets since 1996, with core expertise in risk management and market design.
 
 experience:
   show: true
@@ -101,14 +100,14 @@ experience:
       role: Senior Consultant and Managing Director
       location: Oslo
       description: |
-        I established the company in 2020 initially as a Lærebedrift in Data Electronics to provide a platform/flexibility register for IoT assets. Focus was expanded to general energy services when I started to work full time myself for the company.
+        I established the company in 2020 initially as a Lærebedrift in Data Electronics to provide a platform/flexibility register for IoT assets. Focus has expanded to general energy services since I started working full time for the company myself.
         
-        + Consulting and research services for participants in energy related markets
-        + Providing platforms for managing contracts and risk management in energy and flexibility markets
+        + Consulting and research services for participants in energy and flexibility markets
+        + Developing a platform for managing power contracts and risk - the ETRM solution EnergyDesk
 
-        The company is now owned 50% by Hafslund Eco Vannkraft AS as part of a deal where the company develops a new ETRM platform with cloud computing and meeting the new increased challenges in power markets on counterpart risk.  
+        The company is now owned 50% by Hafslund Eco Vannkraft AS.   
         
-        More details on other engagements found under Projects
+        More details on concrete engagements found under Projects
         
 
     - company: NODES Markets AS
@@ -120,8 +119,8 @@ experience:
       description: |
         Product Owner of the NODES market platform, and subsequently heading the project team
         + Participating in the market design group for NODES Market
-        + Holding the role as Product Owner for the rist 2 years establishing a market platform for flexibility trading
-        + Overseeing pilot projects and actively managing NODES participation in key projects in Scandinavie (Norflex, sthlmflex and Smart Senja)
+        + Holding the role as Product Owner for the first 2 years, constructing a market platform for flexibility trading
+        + Overseeing pilot projects and actively managing NODES participation in key projects in Scandinavia (Norflex, sthlmflex and Smart Senja)
 
     - company: Hafslund Hedging AS and Hafslund Marked
       link:
@@ -130,8 +129,8 @@ experience:
       role: Enterprise Architect
       location: Skøyen, Oslo
       description: |
-        Working for Hafslund Hedging and IT group during the first 4 years, before becoming Enterprise Architect in Hafslund Marked
-        + Architect for one of the first ETRM projects using cloud architecture
+        Working for Hafslund Hedging and  Hafslund IT  during the first 4 years, before becoming Enterprise Architect in Hafslund Marked
+        + Architect for one of the first ETRM platforms based on pure cloud architecture
         + Assisting Hafslund Nett in the smart meter rollout project 2014-2015, with responsibility for the integration platform.
 
     - company: Viz Risk Management Services
@@ -150,7 +149,7 @@ experience:
       role: Risk Manager and Compliance Officer
       location: Smestad, Oslo
       description: |
-        Managing Risk in a Hedge Fund trading Power, Gas, Oil and Emissions.
+        Risk Manager in a Hedge Fund (Orkla Energy Fund) managing contracts on Power, Gas, Oil and Emissions.
 
     - company: Viz Consulting AS
       link:
@@ -168,7 +167,7 @@ experience:
       role: Senior Consultant and Managing Director
       location: Sandvika, Norway
       description: |
-        Consulting services for companies like Nord Pool and Elkem Energi Handel.
+        Consulting services for companies like Nord Pool Clearing and Elkem Energi Handel.
 
     - company: Orion Systems AS
       link:
@@ -177,7 +176,7 @@ experience:
       role: Development Manager and System Architect
       location: Oslo, Norway
       description: |
-        Developing one of the leading ETRM platforms in the 90s and helping Nord Pool Spot establishing the first Internet based Spot Bidding application.
+        Developing one of the leading ETRM platforms in the 90s and helping Nord Pool Spot establishing the first Internet based Spot Bidding application (Elweb).
 
     - company: Institutt for Rettsiformatikk, University of Oslo
       link:
