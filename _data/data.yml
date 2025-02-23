@@ -107,94 +107,9 @@ experience:
 
         Firmaet fikk prosjekt på plattform for energiforvaltning hos Hafslund, og jeg arbeider som konsulent i dette prosjektet etter fagbrevet. 
         
-        More details on concrete engagements found under Projects
+        + Arbeidet med Docker containere og deployment i skyen
+        + Systemutvikling av Wev løsning som ble brukt av de som handlet kraft i markedet
         
-
-    - company: NODES Markets AS
-      link:
-      tags: Full-time
-      date: 2017.10 - 2021.08
-      role: Head of Project Management
-      location: Lysaker, Oslo
-      description: |
-        Product Owner of the NODES market platform, and subsequently heading the project team
-        + Participating in the market design group for NODES Market
-        + Holding the role as Product Owner for the first 2 years, constructing a market platform for flexibility trading
-        + Overseeing pilot projects and actively managing NODES participation in key projects in Scandinavia (Norflex, sthlmflex and Smart Senja)
-
-    - company: Hafslund Hedging AS and Hafslund Marked
-      link:
-      tags: Full-time
-      date: 2011.01 - 2017.10
-      role: Enterprise Architect
-      location: Skøyen, Oslo
-      description: |
-        Working for Hafslund Hedging and  Hafslund IT  during the first 4 years, before becoming Enterprise Architect in Hafslund Marked
-        + Architect for one of the first ETRM platforms based on pure cloud architecture
-        + Assisting Hafslund Nett in the smart meter rollout project 2014-2015, with responsibility for the integration platform.
-
-    - company: Viz Risk Management Services
-      link:
-      tags: Full-time
-      date: 2010.01 - 2011.01
-      role: Senior Consultant
-      location: Skøyen, Oslo
-      description: |
-        Consultant in integration projects for the Elviz platform at Norsk Hydro.
-
-    - company: Orkla Finans Commmodity Trading
-      link:
-      tags: Full-time
-      date: 2008.01 - 2010.01
-      role: Risk Manager and Compliance Officer
-      location: Smestad, Oslo
-      description: |
-        Risk Manager in a Hedge Fund (Orkla Energy Fund) managing contracts on Power, Gas, Oil and Emissions.
-
-    - company: Viz Consulting AS
-      link:
-      tags: Full-time
-      date: 2005.10 - 2008.01
-      role: Senior Consultant and Architect
-      location: Skøyen, Oslo
-      description: |
-        Providing consulting services for customers of Viz Risk Management AS and the Elviz platform.
-
-    - company: Biz Partner AS
-      link:
-      tags: Full-time
-      date: 2001.07 - 2005.10
-      role: Senior Consultant and Managing Director
-      location: Sandvika, Norway
-      description: |
-        Consulting services for companies like Nord Pool Clearing and Elkem Energi Handel.
-
-    - company: Orion Systems AS
-      link:
-      tags: Full-time
-      date: 1996.01 - 2001.05
-      role: Development Manager and System Architect
-      location: Oslo, Norway
-      description: |
-        Developing one of the leading ETRM platforms in the 90s and helping Nord Pool Spot establishing the first Internet based Spot Bidding application (Elweb).
-
-    - company: Institutt for Rettsiformatikk, University of Oslo
-      link:
-      tags: Full-time
-      date: 1994.04 - 1996.01
-      role: IT manager
-      location: Oslo, Norway
-      description: |
-        As part of the compulsory national service (siviltjeneste), I was working for Jon Bings institute as IT manager.
-
-    - company: Microsoft WPGI, Ireland
-      link:
-      tags: Full-time
-      date: 1993.02 - 1994.04
-      role: Localizer
-      location: Dublin, Ireland
-      description: |
-        Localizer for the Norwegian version of Windows NT 3.1; and subsequently working on telephone support for Windows.
 
 
 project:
@@ -204,32 +119,16 @@ project:
   description: |
     The following are recent projects I have been involved in.
   items:
-    - name: Euroflex
+    - name: StockholmFlex
       link: '#'
       tags:
-      date: 2023 - 2024
+      date: 2020 - 2021
       description: |
-        I have been hired by the grid company Elvia as advisor in Euroflex.
-        + Find models and ways to price availability contracts
-        + Hereunder identifying risk premium for future imbalance price
-        + Valuation of real options for grid companies in postponing investments by using flexibility
-
-    - name: Småflex
-      link:
-      tags:
-      date: 2023
-      description: |
-        Assisting Volte and Hafslund Flex in research phase of projects aggregating small size flexibility 
-
-
-    - name: Norflex and Smart Senja
-      link:
-      tags:
-      date: 2019 - 2020
-      description: |
-        Project Manager for NODES Market in ENOVA funded projects piloting flexibility markets
-        + Norflex - flexibility pilot with a focus on the link between DSO and Statnett's markets
-        + Smart Senja - flexibility as a mean to assist the electrification of fishing industry 
+        Springboard Energy Systems AS laget et register over fleksibilitetstjenester
+        + Docker deployment i Amazon Web Services (AWS)
+        + Python progranmering
+        + Web plattform for å ta i mot målerdata
+        
 
 skill:
   show: false
