@@ -83,7 +83,7 @@ profile:
   order: 1
   title: Profil
   description: |
-    2.års student i Elektronikk ved Universitete i Agder, Grimstad.
+    2.års student i Elektronikk ved Universitetet i Agder, Grimstad.
 
 experience:
   show: true
@@ -193,9 +193,9 @@ education:
       major: Ingeniør i Elektronikk
       degree: Ingeniør
       description: |
-        Evening course in economics
-        + Economics and accounting
-        + Marketing
+        Jeg tar følgende fag i Grimstad
+        + Matematikk
+        + Elektronikk
 
     - institution: Yrkesfaglig videregående ved Elvebakkem, Oslo
       link:
@@ -203,9 +203,9 @@ education:
       major: Fagbrev i Data Elektro
       degree: Fagarbrev
       description: |
-        Cand Mag degree in informatics
-        + Programming and informatics
-        + Mathematics and statistics
+        2 årig videregående med påfølgende lærlingperiode
+        + Elektrofag
+        + Praktiske prosjekter med IoT og kommunikasjon
 
 certificate:
   show: false
@@ -335,13 +335,13 @@ language:
 interest:
   show: true
   order: 12
-  title: Interests
+  title: Interesser
   description: |
-    Interests outside work
+    Ander interesser utenom studiet
   items:
-    - item: Shotokan Karate - I hold a 2. dan JKA grade in karate
+    - item: Shotokan Karate - Jeg innehar 2. dan JKA grad i karate
       link:
-    - item: Finance - Investment and algorithmic trading of Forex and Futures.
+    - item: Squash - Jeg trener jevnlig sqaush i Grimstad
       link:
 
 evaluation:
