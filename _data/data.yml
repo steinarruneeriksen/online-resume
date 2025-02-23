@@ -1,14 +1,14 @@
 basic:
-  name: Steinar Rune Eriksen                      # name
-  title: Senior Energy Business & Technology Consultant           # job title
+  name: Morten Birkeland Larsen                      # name
+  title: Student Ingeniørstudie i Elektronikk           # job title
   avatar:
     show: true                       # show or hide avatar
-    path: https://avatars.githubusercontent.com/u/1822624?s=400&u=eea37ce034d53c084e37981e1df18eda75721672&v=4 # avatar file path
+    path: https://media.licdn.com/dms/image/v2/C4E03AQEF8gB6g9FudA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1575446280292?e=1746057600&v=beta&t=tgsaG9IVJmLHLWWV2Rs13TLXozJNO5F2uPtlOVWVgjQ # avatar file path
 
 contact:
   # meta
-  location: Oslo, Norway # location
-  email: steinar@springboard.energy    # email address
+  location: Grimstad, Norway # location
+  email: morten.b.larsen@gmail.com    # email address
   phone: +47 90528148 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   #website: springboard.energy     # site URL without schema, like example.com, will automatically prepand "https://"
 
