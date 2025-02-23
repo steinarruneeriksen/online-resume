@@ -1,15 +1,15 @@
 basic:
   name: Morten Birkeland Larsen                      # name
-  title: Student Ingeniørstudie i Elektronikk           # job title
+  title: Student på Ingeniørstudiet i Elektronikk           # job title
   avatar:
     show: true                       # show or hide avatar
     path: https://media.licdn.com/dms/image/v2/C4E03AQEF8gB6g9FudA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1575446280292?e=1746057600&v=beta&t=tgsaG9IVJmLHLWWV2Rs13TLXozJNO5F2uPtlOVWVgjQ # avatar file path
 
 contact:
   # meta
-  location: Grimstad, Norway # location
-  email: morten.b.larsen@gmail.com    # email address
-  phone: +47 90528148 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  location: Grimstad, Norge # location
+  email: morteb1507@gmail.com    # email address
+  phone: +47 94197007 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   #website: springboard.energy     # site URL without schema, like example.com, will automatically prepand "https://"
 
   gender:   Male               # gender or pronoun
@@ -97,15 +97,15 @@ experience:
       link: '#'
       tags: Full-time
       date: 2020.08 - 2023.06
-      role: Dataelektrolærling og senere systemutvikler
+      role: Dataelektrolærling og systemutvikler
       location: Oslo
       description: |
-        I established the company in 2020 initially as a Lærebedrift in Data Electronics to provide a platform/flexibility register for IoT assets. Focus has expanded to general energy services since I started working full time for the company myself.
+        Jeg startet i Springboard Energy Systems AS som elektronlærling, og tok fagbrev i Data Elektro høsten 2022. Jeg arbeidet et år videre i firmaet som systemutvikler, før jeg bestemte meg for å studere til ingeniør.
         
-        + Consulting and research services for participants in energy and flexibility markets
-        + Developing a platform for managing power contracts and risk - the ETRM solution EnergyDesk
+        + Arbeid med IoT enheter (Rasperry Pi, protokoller) og håndering av målerverdier.
+        + Montering og oppsett av kablet nettverk for firmaet med svitsjer og trådløse punkter
 
-        The company is now owned 50% by Hafslund Eco Vannkraft AS.   
+        Firmaet fikk prosjekt på plattform for energiforvaltning hos Hafslund, og jeg arbeider som konsulent i dette prosjektet etter fagbrevet. 
         
         More details on concrete engagements found under Projects
         
