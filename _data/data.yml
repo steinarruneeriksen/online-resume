@@ -13,7 +13,7 @@ contact:
   #website: springboard.energy     # site URL without schema, like example.com, will automatically prepand "https://"
 
   gender:   Male               # gender or pronoun
-  birthday: 20th November 1967               # birthday
+  birthday: 15th July 2001               # birthday
   nationality:             # nationality
   visa:                    # passport visa
   drivinglicense:          # driving licence
@@ -81,23 +81,23 @@ contact:
 profile:
   show: true
   order: 1
-  title: Profile
+  title: Profil
   description: |
-    Senior Consultant with experience from the power markets since 1996, with core expertise in risk management and market design.
+    2.års student i Elektronikk ved Universitete i Agder, Grimstad.
 
 experience:
   show: true
   order: 2
-  title: Experiences
+  title: Erfaring
   description: |
-    Work experiences
+    Erfaring
 
   items:
     - company: Springboard Energy Systems AS
       link: '#'
       tags: Full-time
-      date: 2021.08 - present
-      role: Senior Consultant and Managing Director
+      date: 2020.08 - 2023.06
+      role: Dataelektrolærling og senere systemutvikler
       location: Oslo
       description: |
         I established the company in 2020 initially as a Lærebedrift in Data Electronics to provide a platform/flexibility register for IoT assets. Focus has expanded to general energy services since I started working full time for the company myself.
