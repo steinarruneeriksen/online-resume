@@ -284,35 +284,25 @@ skill:
 education:
   show: true
   order: 5
-  title: Education
+  title: Utdannelse
   description: |
-    My main degree is Master of Science in Information Systems Engineering, but I have always had an interest in finance and economics and took classes in economics part time in later years.
+    Ingeniør i Elektronikk (2. året)
   items:
-    - institution: NHHK, Oslo
+    - institution: Universitetet i Agder, Grimstad
       link: '#'
-      date: 1994 - 1995
-      major: Bedriftsøkonomi (deltid)
-      degree: Bedriftsøkonomi
+      date: 2023 - nå
+      major: Ingeniør i Elektronikk
+      degree: Ingeniør
       description: |
         Evening course in economics
         + Economics and accounting
         + Marketing
 
-    - institution: University of Manchester
-      link: '#'
-      date: 1990 - 1992
-      major: Machine Learning
-      degree: Master
-      description: |
-        MSc degree in Information Systems Engineering
-        + Thesis on advanced machine learning algorithms
-        + Database management systems
-
-    - institution: University of Oslo
+    - institution: Yrkesfaglig videregående ved Elvebakkem, Oslo
       link:
-      date: 1986 - 1990
-      major: Computer Science
-      degree: Bachelor (Cand Mag)
+      date: 2018 - 2020
+      major: Fagbrev i Data Elektro
+      degree: Fagarbrev
       description: |
         Cand Mag degree in informatics
         + Programming and informatics
